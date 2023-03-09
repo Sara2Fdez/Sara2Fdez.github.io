@@ -1,0 +1,40 @@
+/** Por complicaciones laborales, me atrasé mucho en la teoría y no pude
+ terminar el proyecto pero lo subo incompleto para ver si tengo la 
+ oportunidad de terminarlo en una corrección. Perdón y muchas gracias!*/
+
+body {
+  text-align: center;
+  background-image: url(fondo-binario.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+}
+
+p {
+  border: 1px inset;
+  padding: 25px 5px 50px 5px;
+}
+
+#habilidades {
+  border: 
+}
+
+.img1 {
+  width: 75px;
+  height: 75px;
+  padding: 25px
+}
+
+.img2 {
+  width: 75px;
+  height: 75px;
+  padding: 25px
+}
+
+.img3 {
+  width: 75px;
+  height: 75px;
+  padding: 25px
+}
